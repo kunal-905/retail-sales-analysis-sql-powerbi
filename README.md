@@ -21,7 +21,7 @@ Power BI dashboard to visualize key business metrics.
   sales, indicating a potential candidate for reduced inventory investment.
 
 ## Dashboard
-![Dashboard Screenshot](dashboard.png.png)
+![Dashboard Screenshot](dashboard.png)
 
 ## Files
 - `analysis_queries.sql` — SQL queries used for analysis
