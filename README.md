@@ -16,7 +16,7 @@ Power BI dashboard to visualize key business metrics.
 - [Your third finding, e.g., "Segment Z had the highest average order value"]
 
 ## Dashboard
-![Dashboard Screenshot](dashboard.screenshot.png)
+![Dashboard Screenshot](dashboard.png.png)
 
 ## Files
 - `analysis_queries.sql` — SQL queries used for analysis
