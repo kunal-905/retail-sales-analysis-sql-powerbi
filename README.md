@@ -11,14 +11,19 @@ Power BI dashboard to visualize key business metrics.
 - Power BI (interactive dashboard)
 
 ## Key Insights
-- [Your top finding, e.g., "West region generated X% of total sales"]
-- [Your second finding, e.g., "Top sub-category by revenue was Y"]
-- [Your third finding, e.g., "Segment Z had the highest average order value"]
+- The West region generated the highest revenue ($710K, ~31% of total sales), 
+  while the South region lagged ~45% behind West.
+- The Canon imageCLASS 2200 Advanced Copier was the single highest-revenue 
+  product ($61.6K), more than double the second-highest product.
+- Phones and Chairs were the top-performing sub-categories, each generating 
+  over $320K in sales.
+- Fasteners was the weakest-performing sub-category at just $3K in total 
+  sales, indicating a potential candidate for reduced inventory investment.
 
 ## Dashboard
 ![Dashboard Screenshot](dashboard.png.png)
 
 ## Files
 - `analysis_queries.sql` — SQL queries used for analysis
-- `superstore_clean.xlsx` — Cleaned dataset with PivotTables
+- `superstore_CLEANED.xlsx` — Cleaned dataset with PivotTables
 - `superstore_dashboard.pbix` — Power BI dashboard file
